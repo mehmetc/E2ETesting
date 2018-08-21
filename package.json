@@ -1,0 +1,13 @@
+{
+  "name": "primo-tests",
+  "description": "Tests for the Primo NUI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
